@@ -8,7 +8,7 @@ public class ascii {
 		// TODO Auto-generated method stub
 
 		String s="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-		
+		System.out.println("here");
 		int i =0;
 	/*	while (i < s.length()) {
 		//	type type = (type) en.nextElement();
